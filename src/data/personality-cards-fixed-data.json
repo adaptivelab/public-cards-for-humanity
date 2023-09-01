@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Jenny",
+    "age": "16",
+    "image": "/assets/illustrations/jenny-shy.svg"
+  },
+  {
+    "id": "2",
+    "name": "Lashanda",
+    "age": "18",
+    "image": "/assets/illustrations/lashanda-excitable.svg"
+  },
+  {
+    "id": "3",
+    "name": "Pedro",
+    "age": "90",
+    "image": "/assets/illustrations/pedro-meticulous.svg"
+  },
+  {
+    "id": "4",
+    "name": "Joyanna",
+    "age": "25",
+    "image": "/assets/illustrations/joyanna-confident.svg"
+  },
+  {
+    "id": "5",
+    "name": "Charlie",
+    "age": "35",
+    "image": "/assets/illustrations/charlie-not-confident.svg"
+  },
+  {
+    "id": "6",
+    "name": "Verla",
+    "age": "95",
+    "image": "/assets/illustrations/verla-disorganised.svg"
+  },
+  {
+    "id": "7",
+    "name": "Kristyn",
+    "age": "40",
+    "image": "/assets/illustrations/kristyn-plan-everything.svg"
+  },
+  {
+    "id": "8",
+    "name": "Gennie",
+    "age": "45",
+    "image": "/assets/illustrations/gennie-lazy.svg"
+  },
+  {
+    "id": "9",
+    "name": "Charlie",
+    "age": "50",
+    "image": "/assets/illustrations/charlie-frustrated.svg"
+  },
+  {
+    "id": "10",
+    "name": "Lucia",
+    "age": "55",
+    "image": "/assets/illustrations/lucia-upbeat.svg"
+  },
+  {
+    "id": "11",
+    "name": "Afton",
+    "age": "60",
+    "image": "/assets/illustrations/afton-impatient.svg"
+  },
+  {
+    "id": "12",
+    "name": "Katherine",
+    "age": "65",
+    "image": "/assets/illustrations/katherine-distracted.svg"
+  },
+  {
+    "id": "13",
+    "name": "Rupa",
+    "age": "80",
+    "image": "/assets/illustrations/rupa-independent.svg"
+  },
+  {
+    "id": "14",
+    "name": "Mike",
+    "age": "75",
+    "image": "/assets/illustrations/mike-independent.svg"
+  },
+  {
+    "id": "15",
+    "name": "Lupe",
+    "age": "16",
+    "image": "/assets/illustrations/lupe-trusting.svg"
+  },
+  {
+    "id": "16",
+    "name": "Svetlana",
+    "age": "85",
+    "image": "/assets/illustrations/svetlana-rude.svg"
+  },
+  {
+    "id": "17",
+    "name": "Aston",
+    "age": "20",
+    "image": "/assets/illustrations/aston-caring.svg"
+  },
+  {
+    "id": "18",
+    "name": "Sanjay",
+    "age": "30",
+    "image": "/assets/illustrations/sanjay-impulsive.svg"
+  }
+]

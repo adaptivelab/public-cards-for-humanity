@@ -1,0 +1,533 @@
+{
+  "en_GB":[
+     {
+        "id":"1",
+        "description":"and is very anxious",
+        "considerations":[
+           "Some people struggle with tasks and decisions.",
+           "Some people may need to feel reassured and in control."
+        ],
+        "stat":"More than 300 million people globally suffer from depression and 260 million suffer from anxiety disorders, many of whom live with both conditions. – World Health Organization",
+        "image":"/assets/illustrations/anxious.svg"
+     },
+     {
+        "id":"2",
+        "description":"and is partially deaf",
+        "considerations":[
+           "People with hearing loss may not be able to hear verbal announcements or listen to any content.",
+           "They might not be able to communicate over the phone."
+        ],
+        "stat":"Over 360 million people across the globe have disabling hearing loss. That’s about 5% of the world's population. – World Health Organization",
+        "image":"/assets/illustrations/partially-deaf.svg"
+     },
+     {
+        "id":"3",
+        "description":"and is a wheelchair user",
+        "considerations":[
+           "Some people visit physical service touchpoints using a wheelchair and/or need someone physically helping them to complete tasks."
+        ],
+        "stat":"About 10% of the global population have disabilities, of which 10% require a wheelchair. – World Health Organization (2010)",
+        "image":"/assets/illustrations/wheelchair-user.svg"
+     },
+     {
+        "id":"4",
+        "description":"and is blind",
+        "considerations":[
+           "People who are blind probably use an accessibility aid like a screen reader or have someone helping them.",
+           "Visual content needs to be described in text for the screen reader."
+        ],
+        "stat":"In 2012 there were 285 million visually impaired people in the world, of which 246 million had low vision and 39 million were blind. – World Health Organization",
+        "image":"/assets/illustrations/guide-dog.svg"
+     },
+     {
+        "id":"5",
+        "description":"and is listening to loud music",
+        "considerations":[
+           "When people are listening to music or are in a noisy environment, any verbal announcements will be hard to hear."
+        ],
+        "image":"/assets/illustrations/loud-music.svg"
+     },
+     {
+        "id":"6",
+        "description":"and English is their second language",
+        "considerations":[
+           "Some people may need more time to understand things.",
+           "Lengthy, complicated text can be really challenging.",
+           "Colloquialisms aren't always universally understood."
+        ],
+        "image":"/assets/illustrations/second-language.svg"
+     },
+     {
+        "id":"7",
+        "description":"and has a learning disability",
+        "considerations":[
+           "A learning disability affects the way a person understands information and how they communicate.",
+           "Some people may have difficulty understanding new or complex information, learning new skills, or coping independently."
+        ],
+        "stat":"Up to 10% of the population is affected by specific learning disabilities such as dyslexia, dyscalculia and autism. – Science Daily",
+        "image":"/assets/illustrations/learning-disability.svg"
+     },
+     {
+        "id":"8",
+        "description":"and has dyslexia",
+        "considerations":[
+           "Some fonts are easier to read than others and large amounts of text can be hard to read and comprehend.",
+           "Some people use accessibility settings to change how their device displays content to make reading easier."
+        ],
+        "stat":"1 in 10 people have dyslexia as of 2019. – Dyslexia International",
+        "image":"/assets/illustrations/dyslexia.svg"
+     },
+     {
+        "id":"9",
+        "description":"and is not very confident when using a computer",
+        "considerations":[
+           "Some people may have someone helping them use a computer.",
+           "They may be much more comfortable accessing a service via a phone or a physical location."
+        ],
+        "image":"/assets/illustrations/not-confident-computer.svg"
+     },
+     {
+        "id":"10",
+        "description":"and does not like speaking over the phone",
+        "considerations":[
+           "People who have social anxiety might find it uncomfortable to talk over the phone or speak directly to new people.",
+           "Speech impediments can prevent people from speaking clearly, or mean they have to speak more slowly."
+        ],
+        "image":"/assets/illustrations/no-calls.svg"
+     },
+     {
+        "id":"11",
+        "description":"and is deaf",
+        "considerations":[
+           "People with hearing loss may not be able to hear verbal announcements or listen to any content.",
+           "They might not be able to communicate over the phone."
+        ],
+        "stat":"Over 360 million people across the globe have disabling hearing loss. That is about 5% of the world's population – World Health Organization",
+        "image":"/assets/illustrations/deaf.svg"
+     },
+     {
+        "id":"12",
+        "description":"and has dementia",
+        "considerations":[
+           "Having dementia often means that people will experience memory loss and difficulties with thinking, problem-solving and language.",
+           "Some people may have someone helping them."
+        ],
+        "stat":"Around 50 million people have dementia worldwide. – World Health Organization",
+        "image":"/assets/illustrations/dementia.svg"
+     },
+     {
+        "id":"13",
+        "description":"and has arthritis",
+        "considerations":[
+           "Having arthritis can make physical movement painful and difficult.",
+           "Complex or cramped digital user interfaces can be hard for people to use.",
+           "Arthritis can affect young people as well as older people."
+        ],
+        "stat":"350 million people worldwide have arthritis. – Medicine net",
+        "image":"/assets/illustrations/arthritis.svg"
+     },
+     {
+        "id":"14",
+        "description":"and has received bad news about a loved one",
+        "considerations":[
+           "It can be hard to concentrate when you have just received bad news.",
+           "Bad news can cause people to act angrily or irrationally.",
+           "Communications could cause hurt or offence if received at the wrong time."
+        ],
+        "image":"/assets/illustrations/bad-news.svg"
+     },
+     {
+        "id":"15",
+        "description":"and has an essential tremor (a slight tremor)",
+        "considerations":[
+           "Having an essential tremor means your hand often shakes a small amount, making writing, eating and using tools difficult at times.",
+           "Complex or cramped digital user interfaces can be hard for people to use."
+        ],
+        "stat":"1 in 5 people over the age of 65 may have an essential tremor, as of 2019. – Medtronic",
+        "image":"/assets/illustrations/essential-tremor.svg"
+     },
+     {
+        "id":"16",
+        "description":"and is partially sighted",
+        "considerations":[
+           "People who are partially sighted might be using an accessibility aid like a screen reader.",
+           "Any visual content needs to be described in written form for the screen reader."
+        ],
+        "stat":"285 million visually impaired people in the world, of which 246 million had low vision and 39 million were blind, in 2012. – World Health Organization",
+        "image":"/assets/illustrations/partially-sighted.svg"
+     },
+     {
+        "id":"17",
+        "description":"and has sprained their ankle",
+        "considerations":[
+           "Some people may not be able to visit a physical location."
+        ],
+        "stat":"About 10% of the global population have disabilities, of which 10% require a wheelchair. – World Health Organization (2010)",
+        "image":"/assets/illustrations/sprained-ankle.svg"
+     },
+     {
+        "id":"18",
+        "description":"and is a non-binary person",
+        "considerations":[
+           "Non-binary people may use different pronouns from 'he' and 'she' such as 'ze' or 'they'.",
+           "Using inclusive language such as ‘hello everyone’ rather than ‘hello ladies and gentlemen’ makes more people feel welcome."
+        ],
+        "stat":"Around 1 in 100 people in the UK identify as trans and/or non-binary. That’s around 600,000 people. – Stonewall",
+        "image":"/assets/illustrations/non-binary.svg"
+     }
+  ],
+  "sv_SE":[
+     {
+        "id":"1",
+        "description":"och är mycket orolig",
+        "considerations":[
+           "Vissa personer har svårt att genomföra uppgifter och ta beslut.",
+           "Vissa personer har behov av att känna kontroll och söker efter bekräftelse."
+        ],
+        "stat":"Globalt har mer än 300 miljoner personer depression och 260 miljoner har ångeststörningar, varav många har båda tillstånden. - WHO",
+        "image":"/assets/illustrations/anxious.svg"
+     },
+     {
+        "id":"2",
+        "description":"och är hörselskadad",
+        "considerations":[
+           "Personer med hörselskada kan ha svårt för att höra verbala meddelanden eller lyssna på ljudinnehåll.",
+           "Dessa personer kan ha svårt för att prata i telefon."
+        ],
+        "stat":"Över 360 miljoner personer globalt är hörselskadade eller döva. Detta är cirka 5% av världens befolkning - WHO",
+        "image":"/assets/illustrations/partially-deaf.svg"
+     },
+     {
+        "id":"3",
+        "description":"och använder sig av en rullstol",
+        "considerations":[
+           "Vissa personer använder sig av rullstol för att besöka fysiska platser eller behöver någon som fysiskt hjälper dem att genomföra uppgifter."
+        ],
+        "stat":"Cirka 10% av den globala befolkningen har någon typ av funktionsvariation, varav 10% använder sig av en rullstol. - WHO 2010",
+        "image":"/assets/illustrations/wheelchair-user.svg"
+     },
+     {
+        "id":"4",
+        "description":"och är blind",
+        "considerations":[
+           "Personer som är blinda använder sig ofta av tillgänglighetsverktyg såsom en skärmläsare.",
+           "Visuellt innehåll måste beskrivas i text för att skärmläsaren ska kunna tolka budskapet."
+        ],
+        "stat":"År 2012 fanns det 285 miljoner personer med synnedsättningar i världen. Av dessa hade 246 synnedsättningar och 39 miljoner var blinda. - WHO ",
+        "image":"/assets/illustrations/guide-dog.svg"
+     },
+     {
+        "id":"5",
+        "description":"och lyssnar på musik på hög volym",
+        "considerations":[
+           "När personer lyssnar på musik eller är i en högljudd miljö, påverkar detta deras förståelse av verbal kommunikation."
+        ],
+        "image":"/assets/illustrations/loud-music.svg"
+     },
+     {
+        "id":"6",
+        "description":"och svenska är deras andra språk",
+        "considerations":[
+           "Vissa personer kan behöva mer tid på sig för att förstå.",
+           "Långa, komplicerade texter kan vara utmanande.",
+           "Talspråkliga uttryck är inte lätta för alla att förstå."
+        ],
+        "image":"/assets/illustrations/second-language.svg"
+     },
+     {
+        "id":"7",
+        "description":"och har inlärnings-svårigheter",
+        "considerations":[
+           "Inlärningssvårigheter påverkar hur en person tar in information och hur de kommunicerar.",
+           "Vissa personer har svårt för att förstå ny eller komplex information, lära sig nya saker eller agera självständigt."
+        ],
+        "stat":"Upp till 10% av befolkningen påverkas av olika inlärningssvårigheter, så som dyslexi, dyskalkyli och autism. - Science Daily",
+        "image":"/assets/illustrations/learning-disability.svg"
+     },
+     {
+        "id":"8",
+        "description":"och har dyslexi",
+        "considerations":[
+           "En del teckensnitt är lättare att läsa än andra och stora mängd kan påverka läsförståelsen negativt.",
+           "Vissa personer använder sig av tillgänglighetsinställningar som ändrar hur text visas på deras enheter, för att underlätta läsandet."
+        ],
+        "stat":"En av tio personer har dyslexi. - Dyslexia International 2019",
+        "image":"/assets/illustrations/dyslexia.svg"
+     },
+     {
+        "id":"9",
+        "description":"och har låg självförtroende i att använda datorer",
+        "considerations":[
+           "Vissa personer har en låg datorvana och kan behöva hjälp med att använda digitala lösningar.",
+           "Dessa personer är ofta mycket mer bekväma med att använda en tjänst via telefon eller en fysisk mötesplats."
+        ],
+        "image":"/assets/illustrations/not-confident-computer.svg"
+     },
+     {
+        "id":"10",
+        "description":"och gillar inte att prata i telefon",
+        "considerations":[
+           "Personer med ångestproblematik kan tycka att det är jobbigt att prata i telefon eller att prata med nya personer.",
+           "Talsvårigheter kan hindra personer från att prata tydligt, eller göra att de talar långsammare."
+        ],
+        "image":"/assets/illustrations/no-calls.svg"
+     },
+     {
+        "id":"11",
+        "description":"och är döv",
+        "considerations":[
+           "Personer med hörselskada kan ha svårt för att höra verbala meddelanden eller lyssna på ljudinnehåll.",
+           "Dessa personer kan ha svårt för att prata i telefon."
+        ],
+        "stat":"Över 360 miljoner personer globalt är hörselskadade eller döva. Detta är cirka 5% av världens befolkning - WHO",
+        "image":"/assets/illustrations/deaf.svg"
+     },
+     {
+        "id":"12",
+        "description":"och har demens ",
+        "considerations":[
+           "Demens är kopplat till minnesförlust och kognitiva svårigheter, såsom svårigheter med problemlösning och språkstörningar.",
+           "Vissa personer kan behöva stöd av en person som hjälper dem."
+        ],
+        "stat":"Globalt har 50 miljoner personer demens. - WHO",
+        "image":"/assets/illustrations/dementia.svg"
+     },
+     {
+        "id":"13",
+        "description":"och har artrit",
+        "considerations":[
+           "Artrit kan göra fysisk rörelse smärtsamt och svårt.",
+           "Komplexa och plottriga digitala gränssnitt kan vara svårt för dessa personer att använda sig av.",
+           "Både unga och äldre personer kan ha artrit."
+        ],
+        "stat":"Ungefär 350 miljoner personer globalt har artrit. - Medicine.net",
+        "image":"/assets/illustrations/arthritis.svg"
+     },
+     {
+        "id":"14",
+        "description":"och har fått dåliga nyheter om en anhörig",
+        "considerations":[
+           "Det kan vara svårt att koncentrera sig om man precis har fått dåliga nyheter.",
+           "Dåliga nyheter kan leda till att personer agerar irrationellt eller ilsket.",
+           "Din kommunikation kan uppröra eller såra om det tas emot vid fel tidpunkt."
+        ],
+        "image":"/assets/illustrations/bad-news.svg"
+     },
+     {
+        "id":"15",
+        "description":"och har en essentiell tremor (darrningar)",
+        "considerations":[
+           "Om en person har en essentiell tremor innebär detta att de darrar, vilket ibland kan göra det svårt att skriva, äta eller att använda sig av verktyg.",
+           "Komplicerade eller plottriga digitala gränssnitt kan vara svåra att använda om man har darrningar."
+        ],
+        "stat":"En av fem personer över 65 år har essentiell tremor. - Medtronic.com 2019",
+        "image":"/assets/illustrations/essential-tremor.svg"
+     },
+     {
+        "id":"16",
+        "description":"och har en synnedsättning",
+        "considerations":[
+           "Personer som har en synnedsättning kan ha ett behov av en skärmläsare som hjälpmedel.",
+           "Visuellt innehåll måste beskrivas i text för att skärmläsaren ska kunna förmedla budskapet."
+        ],
+        "stat":"År 2012 fanns det 285 miljoner personer med synnedsättningar i världen. Av dessa hade 246 synnedsättningar och 39 miljoner var blinda. - WHO ",
+        "image":"/assets/illustrations/partially-sighted.svg"
+     },
+     {
+        "id":"17",
+        "description":"och har stukat foten",
+        "considerations":[
+           "Vissa personer kan ha svårt att besöka fysiska platser."
+        ],
+        "stat":"Cirka 10% av den globala befolkningen har någon typ av funktionsvariation, varav 10% använder sig av en rullstol. - WHO 2010",
+        "image":"/assets/illustrations/sprained-ankle.svg"
+     },
+     {
+        "id":"18",
+        "description":"och är icke-binär",
+        "considerations":[
+           "Icke-binära kan använda sig av pronomen så som “hen”, “de/dem”.",
+           "Genom att använda sig av inkluderande språk såsom “hjärtligt välkomna allesammans” istället för “mina damer och herrar” kan fler personer känna sig välkomna."
+        ],
+        "stat":"Cirka 1 av 100 personer i Storbritannien identifierar sig själva som transpersoner eller icke-binära. Det motsvarar cirka 600,000 personer. - Stonewall",
+        "image":"/assets/illustrations/non-binary.svg"
+     }
+  ],
+  "pt_BR":[
+     {
+        "id":"1",
+        "description":"e é uma pessoa muito ansiosa",
+        "considerations":[
+          "Algumas pessoas têm dificuldade de finalizar tarefas e tomar decisões.", 
+          "Algumas pessoas precisam se sentir tranquilizadas e em controle."
+        ],
+        "stat":"Mais de 300 milhões de pessoas no mundo sofrem de depressão e 260 milhões sofrem de distúrbios de ansiedade. Muitas vivem com ambas as condições - Organização Mundial de Saúde",
+        "image":"/assets/illustrations/anxious.svg"
+     },
+     {
+        "id":"2",
+        "description":"e tem surdez parcial",
+        "considerations":[
+          "Pessoas com perda auditiva podem não ouvir anúncios verbais nem ouvir conteúdo.", 
+          "Essas pessoas podem não se comunicar por telefone."
+        ],
+        "stat":"Mais de 360 milhões de pessoas ao redor do mundo têm perda auditiva considerável. Isso é em torno de 5% da população mundial. Organização Mundial de Saúde.",
+        "image":"/assets/illustrations/partially-deaf.svg"
+     },
+     {
+        "id":"3",
+        "description":"e é cadeirante",
+        "considerations":[
+          "Algumas pessoas visitam locais físicos com cadeiras de roda e/ou precisam de ajuda de alguém para finalizar tarefas físicas."
+        ],
+        "stat":"Em torno de 10% da população global tem alguma deficiência e 10% dessas pessoas necessitam de cadeiras de roda. - Organização Mundial de Saúde (2010)",
+        "image":"/assets/illustrations/wheelchair-user.svg"
+     },
+     {
+        "id":"4",
+        "description":"e é uma pessoa cega",
+        "considerations":[
+          "Pessoas com cegueira provavelmente usam tecnologia assistiva como um leitor de telas ou têm alguém que os ajuda.", 
+          "Conteúdo visual precisa ter uma descrição escrita para o leitor de tela."
+        ],
+        "stat":"Em 2012, 285 milhões de pessoas tinham algum tipo de cegueira, dentre as quais 246 milhões tinham baixa visão e 39 milhões eram completamente cegas. - Organização Mundial de Saúde.",
+        "image":"/assets/illustrations/guide-dog.svg"
+     },
+     {
+        "id":"5",
+        "description":"e está ouvindo música alta",
+        "considerations":[
+          "Quando pessoas estão ouvindo música ou estão em um ambiente barulhento, qualquer anúncio verbal é difícil de ouvir."
+        ],
+        "image":"/assets/illustrations/loud-music.svg"
+     },
+     {
+        "id":"6",
+        "description":"e não é fluente em português",
+        "considerations":[
+          "Algumas pessoas precisam de mais tempo para entender as coisas.", 
+          "Texto longo e complicado pode ser bem desafiador.", 
+          "Coloquialismos não são entendidos universalmente."
+        ],
+        "image":"/assets/illustrations/second-language.svg"
+     },
+     {
+        "id":"7",
+        "description":"e tem uma deficiência de aprendizagem",
+        "considerations":[
+          "Uma deficiência de aprendizagem afeta o jeito que uma pessoa compreende as informações e como ela se comunica.", 
+          "Algumas pessoas podem ter dificuldade entendendo informações novas ou complexas, aprendendo habilidades novas ou lidando com coisas independentemente."
+        ],
+        "stat":"Até 10% da população é afetada por deficiências de aprendizagem como dislexia, discalculia e autismo. - Science Daily",
+        "image":"/assets/illustrations/learning-disability.svg"
+     },
+     {
+        "id":"8",
+        "description":"e tem dislexia",
+        "considerations":[
+          "Algumas fontes são mais fáceis de ler do que outras e quantidades grandes de texto podem ser difíceis de ler e compreender.", 
+          "Algumas pessoas usam configurações de acessibilidade para alterar como seu dispositivo exibe conteúdo para facilitar a leitura."
+        ],
+        "stat":"1 em cada 10 pessoas tem dislexia (no ano de 2019). - Dyslexia International",
+        "image":"/assets/illustrations/dyslexia.svg"
+     },
+     {
+        "id":"9",
+        "description":"e não é muito confiante com computadores",
+        "considerations":[
+          "Algumas pessoas têm alguém que as ajuda a usar um computador.", 
+          "Elas podem se sentir mais confortáveis acessando um serviço pelo telefone ou em um local físico."
+        ],
+        "image":"/assets/illustrations/not-confident-computer.svg"
+     },
+     {
+        "id":"10",
+        "description":"e não gosta de falar no telefone",
+        "considerations":[
+          "Pessoas com ansiedade social podem ficar desconfortáveis ao falar no telefone ou ao falar com uma pessoa nova.", 
+          "Distúrbios de fala podem fazer com que pessoas não consigam falar claramente, ou talvez elas precisem falar mais devagar."
+        ],
+        "image":"/assets/illustrations/no-calls.svg"
+     },
+     {
+        "id":"11",
+        "description":"e tem surdez",
+        "considerations":[
+          "Pessoas com perda auditiva podem não ouvir anúncios verbais nem ouvir conteúdo.", 
+          "Essas pessoas podem não se comunicar por telefone."
+        ],
+        "stat":"Mais de 360 milhões de pessoas ao redor do mundo têm perda auditiva considerável. Isso é em torno de 5% da população mundial. Organização Mundial de Saúde.",
+        "image":"/assets/illustrations/deaf.svg"
+     },
+     {
+        "id":"12",
+        "description":"e tem demência",
+        "considerations":[
+          "Ter demência costuma significar que pessoas vão ter falta de memória e dificuldades com raciocínio, resolução de problemas e línguas.", 
+          "Algumas pessoas podem ter ajudantes para auxiliá-las."
+        ],
+        "stat":"Em torno de 50 milhões de pessoas têm demência ao redor do mundo. Organização Mundial de Saúde.",
+        "image":"/assets/illustrations/dementia.svg"
+     },
+     {
+        "id":"13",
+        "description":"e tem artrite",
+        "considerations":[
+          "Ter artrite pode fazer com que movimentos físicos sejam dolorosos e difíceis.", 
+          "Interfaces digitais complexas ou pequenas podem ser difíceis para que as pessoas as usem.", 
+          "Artrite pode afetar tanto pessoas jovens quanto idosas."
+        ],
+        "stat":"350 milhões de pessoas ao redor do mundo têm artrite. - Medicine net",
+        "image":"/assets/illustrations/arthritis.svg"
+     },
+     {
+        "id":"14",
+        "description":"e acabou de receber uma notícia ruim sobre alguém próximo",
+        "considerations":[
+          "Pode ser difícil se concentrar quando você acabou de receber uma notícia ruim.", 
+          "Notíciais ruins podem fazer com que pessoas ajam de modo irracional ou irritável.", 
+          "Comunicações podem causar dor ou serem ofensivas se recebidas no momento errado."
+        ],
+        "image":"/assets/illustrations/bad-news.svg"
+     },
+     {
+        "id":"15",
+        "description":"e tem tremor essencial (tremores leves)",
+        "considerations":[
+          "Ter um tremor essencial significa que sua mão treme levemente, fazendo com que escrever, comer e utilizar ferramentas seja difícil em certos momentos.", 
+          "Interfaces complexas ou pequenas podem ser difíceis para que as pessoas as usem."
+        ],
+        "stat":"1 em cada 5 pessoas acima de 65 anos de idade pode ter tremor essencial (no ano de 2019). - Medtronic",
+        "image":"/assets/illustrations/essential-tremor.svg"
+     },
+     {
+        "id":"16",
+        "description":"e é uma pessoa com baixa visão",
+        "considerations":[
+          "Pessoas com baixa visão provavelmente usam tecnologia assistiva como um leitor de telas ou têm alguém que os ajuda.", 
+          "Conteúdo visual precisa ter uma descrição escrita para o leitor de tela."
+        ],
+        "stat":"Em 2012, 285 milhões de pessoas tinham algum tipo de cegueira, dentre as quais 246 milhões tinham baixa visão e 39 milhões eram completamente cegas. - Organização Mundial de Saúde.",
+        "image":"/assets/illustrations/partially-sighted.svg"
+     },
+     {
+        "id":"17",
+        "description":"e torceu o tornozelo",
+        "considerations":[
+          "Algumas pessoas podem não conseguir visitar locais físicos."
+        ],
+        "stat":"Em torno de 10% da população global tem alguma deficiência e 10% dessas pessoas necessitam de cadeiras de roda. - Organização Mundial de Saúde (2010)",
+        "image":"/assets/illustrations/sprained-ankle.svg"
+     },
+     {
+        "id":"18",
+        "description":"e é uma pessoa não-binária",
+        "considerations":[
+          "Pessoas não-binárias podem usar pronomes diferentes além de 'ele' ou 'ela', como 'elu' ou 'ile'.", 
+          "Usar linguagem inclusiva como 'boas-vindas' no lugar de 'seja bem-vindo' faz com que as pessoas se sintam mais incluídas."
+        ],
+        "stat":"Em torno de 1 em cada 100 pessoas no Reino Unido se identificam como trans e/ou não-binárias. Isso é em torno de 600,000 pessoas. - Stonewall",
+        "image":"/assets/illustrations/non-binary.svg"
+     }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "defaultCommandTimeout": 8000,
+  "retries": {"runMode": 1},
+  "screenshotOnRunFailure": false,
+  "video": false,
+  "viewportWidth": 1280,
+  "viewportHeight": 800
+}

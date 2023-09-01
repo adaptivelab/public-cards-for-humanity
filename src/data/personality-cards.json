@@ -1,0 +1,616 @@
+{
+  "en_GB":[
+     {
+        "id":"1",
+        "personalityTraits":"is shy",
+        "considerations":[
+           "Some people are not always comfortable meeting face-to-face or talking over the phone.",
+           "Some people find it difficult to give feedback or ask for what they need."
+        ],
+        "name":"Jenny",
+        "age":"16",
+        "image":"/assets/illustrations/jenny-shy.svg"
+     },
+     {
+        "id":"2",
+        "personalityTraits":"is excitable",
+        "considerations":[
+           "Some people want to skip ahead and find it difficult to concentrate.",
+           "Some people miss or gloss over important information."
+        ],
+        "name":"Lashanda",
+        "age":"18",
+        "image":"/assets/illustrations/lashanda-excitable.svg"
+     },
+     {
+        "id":"3",
+        "personalityTraits":"is meticulous",
+        "considerations":[
+           "Some people always want to understand what's happening and what the next steps are.",
+           "Some people want to look beyond your product or service to find out more information."
+        ],
+        "name":"Pedro",
+        "age":"90",
+        "image":"/assets/illustrations/pedro-meticulous.svg"
+     },
+     {
+        "id":"4",
+        "personalityTraits":"is confident",
+        "considerations":[
+           "Some people are always comfortable meeting face-to-face or talking over the phone.",
+           "Some people want someone else to help them.",
+           "Some people feel uncomfortable starting and completing an online journey alone."
+        ],
+        "name":"Joyanna",
+        "age":"25",
+        "image":"/assets/illustrations/joyanna-confident.svg"
+     },
+     {
+        "id":"5",
+        "personalityTraits":"is not very confident",
+        "considerations":[
+           "Some people feel like they know what to do but might still need support.",
+           "Confident people still have knowledge gaps.",
+           "Some people don’t read all the information and could be at risk of making choices that aren’t right for their situation."
+        ],
+        "name":"Charlie",
+        "age":"35",
+        "image":"/assets/illustrations/charlie-not-confident.svg"
+     },
+     {
+        "id":"6",
+        "personalityTraits":"is disorganised",
+        "considerations":[
+           "Some people forget key information and can easily get confused.",
+           "Some people may not necessarily have key information to hand."
+        ],
+        "name":"Verla",
+        "age":"95",
+        "image":"/assets/illustrations/verla-disorganised.svg"
+     },
+     {
+        "id":"7",
+        "personalityTraits":"likes to plan everything in advance",
+        "considerations":[
+           "Some people like to plan everything and need to feel prepared.",
+           "If you make changes to some people’s products or services without consulting them, you’re likely to lose their trust."
+        ],
+        "name":"Kristyn",
+        "age":"40",
+        "image":"/assets/illustrations/kristyn-plan-everything.svg"
+     },
+     {
+        "id":"8",
+        "personalityTraits":"is lazy",
+        "considerations":[
+           "Some people will not be very engaged with a service or product.",
+           "Some people quickly give up on processes that aren't easy or seamless to complete.",
+           "Some people may look for the easiest option even if it might not be the right one for them."
+        ],
+        "name":"Gennie",
+        "age":"45",
+        "image":"/assets/illustrations/gennie-lazy.svg"
+     },
+     {
+        "id":"9",
+        "personalityTraits":"is easily frustrated",
+        "considerations":[
+           "Some people don’t engage with processes they perceive to be complicated and need an answer as quickly as possible.",
+           "Some people quickly become frustrated with too much information or too many steps in a process."
+        ],
+        "name":"Charlie",
+        "age":"50",
+        "image":"/assets/illustrations/charlie-frustrated.svg"
+     },
+     {
+        "id":"10",
+        "personalityTraits":"is always upbeat",
+        "considerations":[
+           "Some people might not want to say what’s wrong.",
+           "Some people will always give good feedback."
+        ],
+        "name":"Lucia",
+        "age":"55",
+        "image":"/assets/illustrations/lucia-upbeat.svg"
+     },
+     {
+        "id":"11",
+        "personalityTraits":"is very impatient",
+        "considerations":[
+           "Some people want things done immediately and get frustrated if that’s not possible.",
+           "Some people may experience time differently, eg because of illness."
+        ],
+        "name":"Afton",
+        "age":"60",
+        "image":"/assets/illustrations/afton-impatient.svg"
+     },
+     {
+        "id":"12",
+        "personalityTraits":"is easily distracted",
+        "considerations":[
+           "It can be difficult to hold some people's attention.",
+           "It can be challenging for some people to remember key information.",
+           "Some people need more orientation in a process so they know which step they are on."
+        ],
+        "name":"Katherine",
+        "age":"65",
+        "image":"/assets/illustrations/katherine-distracted.svg"
+     },
+     {
+        "id":"13",
+        "personalityTraits":"is not very independent",
+        "considerations":[
+           "Some people need someone else to help them.",
+           "Some people are not very confident.",
+           "People who need assistance in one area may be completely independent in another."
+        ],
+        "name":"Rupa",
+        "age":"80",
+        "image":"/assets/illustrations/rupa-independent.svg"
+     },
+     {
+        "id":"14",
+        "personalityTraits":"is very independent",
+        "considerations":[
+           "Some people don’t want any help or don't like the idea of receiving help."
+        ],
+        "name":"Mike",
+        "age":"75",
+        "image":"/assets/illustrations/mike-independent.svg"
+     },
+     {
+        "id":"15",
+        "personalityTraits":"is overly trusting",
+        "considerations":[
+           "Some people believe something they've read or heard without question.",
+           "Some people may not have access to or know where to look for trustworthy sources."
+        ],
+        "name":"Lupe",
+        "age":"16",
+        "image":"/assets/illustrations/lupe-trusting.svg"
+     },
+     {
+        "id":"16",
+        "personalityTraits":"is often a bit rude",
+        "considerations":[
+           "Some people become very defensive when they’re uncomfortable.",
+           "Different cultures consider different things to be ‘rude’.",
+           "People may appear abrupt if they're communicating on different channels, or if they're under pressure."
+        ],
+        "name":"Svetlana",
+        "age":"85",
+        "image":"/assets/illustrations/svetlana-rude.svg"
+     },
+     {
+        "id":"17",
+        "personalityTraits":"is very caring",
+        "considerations":[
+           "Some people are always happy to chat and might want to chat for a while.",
+           "Some people prioritise other people’s needs before their own."
+        ],
+        "name":"Aston",
+        "age":"20",
+        "image":"/assets/illustrations/aston-caring.svg"
+     },
+     {
+        "id":"18",
+        "personalityTraits":"is very impulsive",
+        "considerations":[
+           "Some people behave erratically or unpredictably.",
+           "Some people don’t realise the consequences of their actions."
+        ],
+        "name":"Sanjay",
+        "age":"30",
+        "image":"/assets/illustrations/sanjay-impulsive.svg"
+     }
+  ],
+  "sv_SE":[
+     {
+        "id":"1",
+        "personalityTraits":"är blyg",
+        "considerations":[
+           "Vissa personer är inte alltid bekväma med att träffas eller prata över telefon.",
+           "Vissa personer kan tycka att det är svårt att ge feedback eller be om hjälp."
+        ],
+        "name":"Jenny",
+        "age":"16",
+        "image":"/assets/illustrations/jenny-shy.svg"
+     },
+     {
+        "id":"2",
+        "personalityTraits":"är exalterad",
+        "considerations":[
+           "Vissa personer har svårt för att koncentrera sig.",
+           "Vissa personer hoppar över eller missar viktig information."
+        ],
+        "name":"Lashanda",
+        "age":"18",
+        "image":"/assets/illustrations/lashanda-excitable.svg"
+     },
+     {
+        "id":"3",
+        "personalityTraits":"är noggrann ",
+        "considerations":[
+           "Vissa personer vill alltid ha en överblick över vad som sker och veta vilka de nästa stegen är.",
+           "Vissa personer vill få ta del av utförlig information om din tjänst eller produkt."
+        ],
+        "name":"Pedro",
+        "age":"90",
+        "image":"/assets/illustrations/pedro-meticulous.svg"
+     },
+     {
+        "id":"4",
+        "personalityTraits":"är självsäker",
+        "considerations":[
+           "Vissa personer alltid är bekväma med att mötas och prata över telefon.",
+           "Vissa personer vill att någon hjälper dem.",
+           "Vissa personer är obekväma med att påbörja och slutföra en digital kundresa själva."
+        ],
+        "name":"Joyanna",
+        "age":"25",
+        "image":"/assets/illustrations/joyanna-confident.svg"
+     },
+     {
+        "id":"5",
+        "personalityTraits":"är inte så självsäker",
+        "considerations":[
+           "Vissa personer vet allt de behöver veta, men känner ändå att de behöver stöd.",
+           "Självsäkra personer kan ändå ha kunskapsluckor.",
+           "Vissa personer läser inte all information och kan därför löpa risk för att ta fel beslut."
+        ],
+        "name":"Charlie",
+        "age":"35",
+        "image":"/assets/illustrations/charlie-not-confident.svg"
+     },
+     {
+        "id":"6",
+        "personalityTraits":"är tankspridd",
+        "considerations":[
+           "Vissa personer har svårt att minnas viktig information och kan lätt bli förvirrade.",
+           "Vissa personer har inte nödvändigtvis lätt tillgång till viktig information."
+        ],
+        "name":"Verla",
+        "age":"95",
+        "image":"/assets/illustrations/verla-disorganised.svg"
+     },
+     {
+        "id":"7",
+        "personalityTraits":"gillar att planera i förväg",
+        "considerations":[
+           "Vissa personer gillar att planera allt i förväg och har ett behov av att känna sig förberedda.",
+           "Om du förändrar tjänster eller produkter utan att informera om detta i förväg kan det leda till att vissa användare tappar förtroendet."
+        ],
+        "name":"Kristyn",
+        "age":"40",
+        "image":"/assets/illustrations/kristyn-plan-everything.svg"
+     },
+     {
+        "id":"8",
+        "personalityTraits":"är lat",
+        "considerations":[
+           "Vissa personer kommer inte vara så engagerade i din tjänst eller produkt.",
+           "Vissa personer ger lätt upp på processer som är krångliga att gå igenom.",
+           "Vissa personer letar alltid efter den enklaste vägen, även fast detta kanske är det lämpliga för dem."
+        ],
+        "name":"Gennie",
+        "age":"45",
+        "image":"/assets/illustrations/gennie-lazy.svg"
+     },
+     {
+        "id":"9",
+        "personalityTraits":"blir lätt frustrerad",
+        "considerations":[
+           "Vissa personer tar sig inte an processer som verkar komplicerade, då de vill ha svar så snabbt som möjligt.",
+           "Vissa personer blir snabbt frustrerade med för mycket information eller för många steg i processen."
+        ],
+        "name":"Charlie",
+        "age":"50",
+        "image":"/assets/illustrations/charlie-frustrated.svg"
+     },
+     {
+        "id":"10",
+        "personalityTraits":"är alltid optimistisk",
+        "considerations":[
+           "Vissa personer kanske inte vill säga vad som är fel.",
+           "Vissa personer vill alltid ge positiv feedback."
+        ],
+        "name":"Lucia",
+        "age":"55",
+        "image":"/assets/illustrations/lucia-upbeat.svg"
+     },
+     {
+        "id":"11",
+        "personalityTraits":"är mycket otålig",
+        "considerations":[
+           "Vissa personer vill alltid göra saker direkt och blir frustrerade när det inte är möjligt.",
+           "Vissa personer har en annorlunda tidsuppfattning, tex på grund av sjukdomar."
+        ],
+        "name":"Afton",
+        "age":"60",
+        "image":"/assets/illustrations/afton-impatient.svg"
+     },
+     {
+        "id":"12",
+        "personalityTraits":"är lättdistraherad",
+        "considerations":[
+           "Det kan vara svårt för vissa personer att fokusera.",
+           "Det kan vara utmanande för vissa personer att komma ihåg viktig information.",
+           "Vissa personer kan behöva mer information om en process, för att kunna orientera sig och veta vilket steg de befinner sig just nu."
+        ],
+        "name":"Katherine",
+        "age":"65",
+        "image":"/assets/illustrations/katherine-distracted.svg"
+     },
+     {
+        "id":"13",
+        "personalityTraits":"är inte så självständig",
+        "considerations":[
+           "Vissa personer behöver stöd.",
+           "Vissa personer är inte så självsäkra.",
+           "Personer som behöver stöd inom ett område kan vara helt självständiga inom ett annat område."
+        ],
+        "name":"Rupa",
+        "age":"80",
+        "image":"/assets/illustrations/rupa-independent.svg"
+     },
+     {
+        "id":"14",
+        "personalityTraits":"är mycket självständig",
+        "considerations":[
+           "Vissa personer vill inte ha hjälp eller gillar inte tanken på att få hjälp."
+        ],
+        "name":"Mike",
+        "age":"75",
+        "image":"/assets/illustrations/mike-independent.svg"
+     },
+     {
+        "id":"15",
+        "personalityTraits":"är godtrogen",
+        "considerations":[
+           "Vissa personer tror på allt de har hört eller läst.",
+           "Vissa personer vet inte var eller hur de ska söka efter tillförlitliga källor."
+        ],
+        "name":"Lupe",
+        "age":"16",
+        "image":"/assets/illustrations/lupe-trusting.svg"
+     },
+     {
+        "id":"16",
+        "personalityTraits":"är ofta oförskämd",
+        "considerations":[
+           "Vissa personer kan bli defensiva när de känner sig obekväma.",
+           "Olika kulturer har olika uppfattningar om vad som är oförskämt.",
+           "Personer kan verka ha en kort ton beroende på vilken kommunikationskanal de använder sig av eller om de är pressade."
+        ],
+        "name":"Svetlana",
+        "age":"85",
+        "image":"/assets/illustrations/svetlana-rude.svg"
+     },
+     {
+        "id":"17",
+        "personalityTraits":"är mycket omtänksam",
+        "considerations":[
+           "Vissa personer är alltid öppna för att ta en pratstund.",
+           "Vissa personer prioriterar andra personers behov över deras egna."
+        ],
+        "name":"Aston",
+        "age":"20",
+        "image":"/assets/illustrations/aston-caring.svg"
+     },
+     {
+        "id":"18",
+        "personalityTraits":"är impulsiv",
+        "considerations":[
+           "Vissa personer agerar oberäkneligt och nyckfullt.",
+           "Vissa personer inser inte konsekvenserna av sina handlingar."
+        ],
+        "name":"Sanjay",
+        "age":"30",
+        "image":"/assets/illustrations/sanjay-impulsive.svg"
+     }
+  ],
+  "pt_BR":[
+    {
+       "id":"1",
+       "personalityTraits":"é uma pessoa tímida",
+       "considerations":[
+          "Algums pessoas não se sentem confortáveis em encontros presenciais ou ao falar no telefone.",
+          "Algumas pessoas têm dificuldade na hora de dar feedback ou pedir por alguma coisa."
+       ],
+       "name":"Jenny",
+       "age":"16",
+       "image":"/assets/illustrations/jenny-shy.svg"
+    },
+    {
+       "id":"2",
+       "personalityTraits":"é uma pessoa empolgada",
+       "considerations":[
+          "Algumas pessoas querem pular mais para a frente do conteúdo ou processo e têm dificuldade de concentração.", 
+          "Algumas pessoas perdem informações importantes por que não veem ou veem de relance."
+       ],
+       "name":"Lashanda",
+       "age":"18",
+       "image":"/assets/illustrations/lashanda-excitable.svg"
+    },
+    {
+       "id":"3",
+       "personalityTraits":"é uma pessoa meticulosa",
+       "considerations":[
+          "Algumas pessoas querem entender sempre o que está acontecendo e quais são os próximos passos.", 
+          "Algumas pessoas querem pesquisar além do seu produto ou serviço para descobrir mais informações."
+       ],
+       "name":"Pedro",
+       "age":"90",
+       "image":"/assets/illustrations/pedro-meticulous.svg"
+    },
+    {
+       "id":"4",
+       "personalityTraits":"é uma pessoa confiante",
+       "considerations":[
+          "Algumas pessoas sempre se sentem confortáveis com encontros presenciais ou ao falar no telefone.", "Algumas pessoas querem que outras pessoas as ajudem.",
+          "Algumas pessoas se sentem desconfortáveis começando e finalizando uma jornada online sozinhas."
+       ],
+       "name":"Joyanna",
+       "age":"25",
+       "image":"/assets/illustrations/joyanna-confident.svg"
+    },
+    {
+       "id":"5",
+       "personalityTraits":"é uma pessoa não muito confiante",
+       "considerations":[
+          "Algumas pessoas sentem que sabem o que precisam fazer mas ainda assim querem apoio.", 
+          "Pessoas confiantes podem ter lacunas de conhecimento.", 
+          "Algumas pessoas não leem toda a informação e podem ter risco de fazer escolhas que não são apropriadas para sua situação."
+       ],
+       "name":"Charlie",
+       "age":"35",
+       "image":"/assets/illustrations/charlie-not-confident.svg"
+    },
+    {
+       "id":"6",
+       "personalityTraits":"é uma pessoa desorganizada",
+       "considerations":[
+          "Algumas pessoas esquecem informações essenciais e ficam facilmente confusas.",
+          "Algumas pessoas podem não ter a informação essencial acessível."
+       ],
+       "name":"Verla",
+       "age":"95",
+       "image":"/assets/illustrations/verla-disorganised.svg"
+    },
+    {
+       "id":"7",
+       "personalityTraits":"gosta de planejar tudo com antecedência",
+       "considerations":[
+          "Algumas pessoas gostam de planejar tudo e precisam se sentir preparadas.", 
+          "Se você fizer mudanças nos produtos e serviços de algumas pessoas sem consultá-las, elas podem perder a confiança em você."
+       ],
+       "name":"Kristyn",
+       "age":"40",
+       "image":"/assets/illustrations/kristyn-plan-everything.svg"
+    },
+    {
+       "id":"8",
+       "personalityTraits":"é uma pessoa preguiçosa",
+       "considerations":[
+          "Algumas pessoas não se engajam muito com um serviço ou produto.", 
+          "Algumas pessoas desistem rapidamente de processos que não são fáceis de completar.",
+          "Algumas pessoas procuram pela opção mais fácil mesmo se não for a ideal."
+       ],
+       "name":"Gennie",
+       "age":"45",
+       "image":"/assets/illustrations/gennie-lazy.svg"
+    },
+    {
+       "id":"9",
+       "personalityTraits":"se frustra facilmente",
+       "considerations":[
+          "Algumas pessoas não se engajam com processos que elas consideram complicados e precisam de uma resposta o mais rápido possível.", 
+          "Algumas pessoas se frustram facilmente com excessos de informação ou muitos passos em um processo."
+       ],
+       "name":"Charlie",
+       "age":"50",
+       "image":"/assets/illustrations/charlie-frustrated.svg"
+    },
+    {
+       "id":"10",
+       "personalityTraits":"está sempre otimista",
+       "considerations":[
+          "Algumas pessoas talvez não queiram falar o que está errado.", 
+          "Algumas pessoas sempre dão feedback positivos."
+       ],
+       "name":"Lucia",
+       "age":"55",
+       "image":"/assets/illustrations/lucia-upbeat.svg"
+    },
+    {
+       "id":"11",
+       "personalityTraits":"é uma pessoa muito impaciente",
+       "considerations":[
+          "Algumas pessoas querem coisas feitas de imediato e se frustram se isso não for possível.", 
+          "Algumas pessoas podem sentir o tempo de modo diferente, por exemplo, por conta de alguma doença."
+       ],
+       "name":"Afton",
+       "age":"60",
+       "image":"/assets/illustrations/afton-impatient.svg"
+    },
+    {
+       "id":"12",
+       "personalityTraits":"se distrai facilmente",
+       "considerations":[
+          "Pode ser difícil manter a atenção de algumas pessoas.",
+          "Para algumas pessoas, lembrar de informações essenciais pode ser desafiador.",
+          "Algumas pessoas precisam de mais orientações em um processo para que elas saibam em que passo estão."
+       ],
+       "name":"Katherine",
+       "age":"65",
+       "image":"/assets/illustrations/katherine-distracted.svg"
+    },
+    {
+       "id":"13",
+       "personalityTraits":"não é muito independente",
+       "considerations":[
+          "Algumas pessoas precisam de outras pessoas para ajudá-las.", 
+          "Algumas pessoas não são muito confiantes.",
+          "Pessoas que precisam de assistência em uma área podem ser completamente independentes em outras."
+       ],
+       "name":"Rupa",
+       "age":"80",
+       "image":"/assets/illustrations/rupa-independent.svg"
+    },
+    {
+       "id":"14",
+       "personalityTraits":"é muito independente",
+       "considerations":[
+         "Algumas pessoas não querem ajuda ou não gostam da ideia de receber ajuda."
+       ],
+       "name":"Mike",
+       "age":"75",
+       "image":"/assets/illustrations/mike-independent.svg"
+    },
+    {
+       "id":"15",
+       "personalityTraits":"confia muito nos outros",
+       "considerations":[
+          "Algumas pessoas acreditam em coisas que leram ou ouviram sem questionar.",
+          "Algumas pessoas podem não ter acesso a fontes confiáveis ou podem não saber onde procurá-las."
+       ],
+       "name":"Lupe",
+       "age":"16",
+       "image":"/assets/illustrations/lupe-trusting.svg"
+    },
+    {
+       "id":"16",
+       "personalityTraits":"é meio rude às vezes",
+       "considerations":[
+          "Algumas pessoas ficam na defensivas quando não estão confortáveis.",
+          "Diferentes culturas consideram diferentes coisas como rudes.",
+          "Pessoas podem parecer diretas demais se elas estão se comunicando por canais diferentes ou se elas se sentirem pressionadas."
+       ],
+       "name":"Svetlana",
+       "age":"85",
+       "image":"/assets/illustrations/svetlana-rude.svg"
+    },
+    {
+       "id":"17",
+       "personalityTraits":"é uma pessoa muito atenciosa",
+       "considerations":[
+          "Algumas pessoas estão sempre dispostas a conversar e podem querer continuar conversando por mais tempo.",
+          "Algumas pessoas priorizam as necessidades dos outros antes das suas."
+       ],
+       "name":"Aston",
+       "age":"20",
+       "image":"/assets/illustrations/aston-caring.svg"
+    },
+    {
+       "id":"18",
+       "personalityTraits":"é uma pessoa muito impulsiva",
+       "considerations":[
+          "Algumas pessoas têm comportamentos erráticos ou imprevisíveis.",
+          "Algumas pessoas não percebem as consequências de suas ações."
+       ],
+       "name":"Sanjay",
+       "age":"30",
+       "image":"/assets/illustrations/sanjay-impulsive.svg"
+    }
+ ]
+}

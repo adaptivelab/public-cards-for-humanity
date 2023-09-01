@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/illustrations/anxious.svg"
+  },
+  {
+    "id": "2",
+    "image": "/assets/illustrations/partially-deaf.svg"
+  },
+  {
+    "id": "3",
+    "image": "/assets/illustrations/wheelchair-user.svg"
+  },
+  {
+    "id": "4",
+    "image": "/assets/illustrations/guide-dog.svg"
+  },
+  {
+    "id": "5",
+    "image": "/assets/illustrations/loud-music.svg"
+  },
+  {
+    "id": "6",
+    "image": "/assets/illustrations/second-language.svg"
+  },
+  {
+    "id": "7",
+    "image": "/assets/illustrations/learning-disability.svg"
+  },
+  {
+    "id": "8",
+    "image": "/assets/illustrations/dyslexia.svg"
+  },
+  {
+    "id": "9",
+    "image": "/assets/illustrations/not-confident-computer.svg"
+  },
+  {
+    "id": "10",
+    "image": "/assets/illustrations/no-calls.svg"
+  },
+  {
+    "id": "11",
+    "image": "/assets/illustrations/deaf.svg"
+  },
+  {
+    "id": "12",
+    "image": "/assets/illustrations/dementia.svg"
+  },
+  {
+    "id": "13",
+    "image": "/assets/illustrations/arthritis.svg"
+  },
+  {
+    "id": "14",
+    "image": "/assets/illustrations/bad-news.svg"
+  },
+  {
+    "id": "15",
+    "image": "/assets/illustrations/essential-tremor.svg"
+  },
+  {
+    "id": "16",
+    "image": "/assets/illustrations/partially-sighted.svg"
+  },
+  {
+    "id": "17",
+    "image": "/assets/illustrations/sprained-ankle.svg"
+  },
+  {
+    "id": "18",
+    "image": "/assets/illustrations/non-binary.svg"
+  }
+]
